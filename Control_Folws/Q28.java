@@ -1,0 +1,1 @@
+public class Q28 { public static void main(String[] args) { System.out.println("Solution for Question 28"); } }
